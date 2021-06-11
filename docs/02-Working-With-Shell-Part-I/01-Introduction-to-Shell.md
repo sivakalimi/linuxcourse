@@ -2,7 +2,7 @@
 
 ### Introduction to Shell
 
-- Take me to the [Video Tutorial](https://kodekloud.com/courses/873064/lectures/17074335)
+
 
 In this section, we will take a look at linux shell in detail. 
 - We will learn how to use linux commands and understand how to work with files and directories. 
